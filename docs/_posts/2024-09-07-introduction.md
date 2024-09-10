@@ -43,7 +43,7 @@ cheat involving apples and rabbit pies is real or fake.
 - Tony Crowther, for developing this game
 - Tony McGarry, JOTD and CFou! for the
   [Knightmare WHDLoad](https://whdload.de/games/Knightmare.html)
-- Pierre "Lyberbe" Fournier, for the 
+- Pierre "Lyverbe" Fournier, for the 
   [The Ultimate Captive Guide](https://captive.atari.org/), which was useful for
   some details of Crowther's works
 - Pete Jefferson, for the
