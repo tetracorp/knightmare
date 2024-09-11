@@ -315,6 +315,10 @@ p code, li code, td code {
   padding: 0 2px;
 }
 
+img {
+  cursor: url(https://tetracorp.github.io/knightmare/images/Knightmare_pointer32.png), auto;
+}
+
 ol#markdown-toc {
   border: 1px solid #aaa;
   display: inline-block;
