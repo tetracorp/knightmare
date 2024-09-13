@@ -112,8 +112,9 @@ Font
 
 The main text font for the game, stored as 1-bit 8 x 8 graphics. The dots at the
 top row of each font are not shown, and are presumably included for spacing
-purposes. The "^" has been replaced with a "kg" symbol (same as _Captive_) and
-the characters "&lt;=&gt;" are arrows and what looks like the top of a skull.
+purposes. The "^" has been replaced with a "kg" symbol (same as _Captive_),
+which is used in the inventory screen. The characters "&lt;=&gt;" form an arrow
+piercing a skull, which are used to replace the name field of dead characters.
 
 ### $164BE
 
