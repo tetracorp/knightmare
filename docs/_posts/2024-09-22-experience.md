@@ -49,7 +49,7 @@ XP necessary to reach that level title:
 
 L#   | Level name | XP            | Total
 -----|------------|---------------|---------------
- 0   | _(none)_   |             0 |             0
+ 0   | (none)     |             0 |             0
  4   | NOVICE     |           256 |           256 
  8   | TENDERFOOT |           512 |           768 
 12   | APPRENTICE |         1,024 |         1,792 
