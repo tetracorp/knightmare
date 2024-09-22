@@ -3,6 +3,15 @@ title: Miscellaneous undocumented features
 categories: analysis
 ---
 
+### Throwing multiple items
+
+When you throw a weapon from the hand, it will automatically be replaced by one
+from the backpack, if you have one.
+
+For example, if you have one Ball in hand and two Balls in your backpack, if you
+throw your Ball it will immediately take one from the character's backpack and
+put it into your hand.
+
 ### Atari ST palette
 
 In the Preferences window, click on the right-hand side of the "DEFAULT" button
