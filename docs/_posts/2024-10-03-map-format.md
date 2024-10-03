@@ -61,14 +61,14 @@ Bytes                                   | Meaning
 There are eight maps in the game. Each is 32 x 32 tiles in size, and each tile
 is represented by a single byte. The maps in order are:
 
-1. Forest area
-2. Quest Three: Sword of Freedom, floor 1
-3. Quest Three: Sword of Freedom, floor 2
-4. Quest Three: Sword of Freedom, floor 3
-5. Quest Two: Cup of Life
-6. Quest One: Shield of Justice
-7. Quest Four: Crown of Glory, various
-8. Quest Four: Crown of Glory, floor 1
+- Forest area
+- Quest Three: Sword of Freedom, floor 1
+- Quest Three: Sword of Freedom, floor 2
+- Quest Three: Sword of Freedom, floor 3
+- Quest Two: Cup of Life
+- Quest One: Shield of Justice
+- Quest Four: Crown of Glory, various
+- Quest Four: Crown of Glory, floor 1
 
 All maps are automatically surrounded by solid walls. This differs from the
 [Dungeons of Avalon II map format](https://tetracorp.github.io/dungeons-of-avalon/data/dungeon-format.html),
@@ -82,9 +82,7 @@ index.
 
 Hex| Tile
 ---|----------------
-00 | Solid wall. If any decorations (e.g. switches, Treguard) are defined for
-this block, they are on the North side. Blocks 01 to 0f bitwise determine which
-faces the decorations are on.
+00 | Solid wall. If any decorations (e.g. switches, Treguard) are defined for this block, they are on the North side. Blocks 01 to 0f bitwise determine which faces the decorations are on.
 01 | Solid wall (Decorations: N)
 02 | Solid wall (Decorations: E)
 03 | Solid wall (Decorations: N, E) (unused)
@@ -2511,4 +2509,4 @@ The following items do not appear in any map: 07 HELMET, 08 CROWN OF GLORY, 1a
 PLATE, 21 PLATE, 29 RABBIT PIE, 2b MILK BOTTLE, 2c MILK BOTTLE, 2d STAMINA
 POTION, 2e SIGHT POTION, 2f DECRIPPLING POTION, 37 SAMURAI, 49 BOMB, 4a SMASHED
 BOTTLE, 52 HEALSTONE, 53 FUNNY STICK, 5b COIN, 5d CUP OF LIFE, 5e HEART OF
-&gt;character&lt;, 64 STAR KEY, 65 EMPTY BOTTLE.
+&lt;character&gt;, 64 STAR KEY, 65 EMPTY BOTTLE.
