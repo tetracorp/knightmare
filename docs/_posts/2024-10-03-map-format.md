@@ -1574,7 +1574,7 @@ by the NPC's text in null-terminated ASCII.
  0f |                        | 52: HEALSTONE      | 01 | 01 02 19 | WE WILL MAKE YOU ILL
  0d | 53: FUNNY STICK        | 5b: COIN +1        | 05 | 01 02 28 | I WILL PAY YOU
  03 | 5b: COIN               |                    | 03 | 01 02 38 | PAY ME
- 05 | 6f: POW                | 62: GEM KEY        | 0a | 01 02 30 | LEAVE NOW
+ 05 | 6f: POW (dummy item)   | 62: GEM KEY        | 0a | 01 02 30 | LEAVE NOW
  02 |                        |                    | 09 | 01 02 22 | NO ONE WILL PASS
  09 |                        | 60: GOLD KEY       | 00 | 01 02 3b | ARRGH
  0c |                        | 5d: CUP OF LIFE    | 06 | 01 02 3c | HISSS
@@ -2042,35 +2042,38 @@ ID | Monster
 04 | Witch
 05 | Charon
 06 | Cloaked figure
-07 | 
+07 | Grey Knight
 08 | Pooka
-09 | 
-0a | 
-0b | 
-0c | 
-0d | 
+09 | Giant
+0a | Wizard
+0b | Wizard
+0c | Spider
+0d | Ant
 0e | Skull
 0f | Golem
-10 | 
-11 | 
-12 | 
-13 | 
-14 | 
-15 | 
-16 | 
-17 | 
-18 | 
-19 | 
-1a | 
-1b | 
-1c | 
-1d | 
-1e | 
-1f | 
-20 | 
-21 | 
-22 | 
-23 | 
+10 | Green dragon
+11 | White Knight
+12 | Minotaur helmet
+13 | Minotaur
+14 | Lizardman
+15 | Pharaoh
+16 | Sorcerer
+17 | Cobra
+18 | Acrobat
+19 | Medusa
+1a | Lord Fear
+1b | Skeleton
+1c | Ghost
+1d | Bat
+1e | Demon
+1f | Small dragon
+20 | Earth elemental
+21 | Piranha
+22 | Wizard
+23 | Wizard
+
+Note that the monster names are not stored in the game files, so most of these
+names are not official.
 
 ### $5de2: Items
 
