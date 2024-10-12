@@ -22,6 +22,15 @@ title: Main Index
     {% endfor %}
   </ul>
 
+  <h3>Maps</h3>
+  <ul class="posts">
+    {% for post in sortedPosts %}
+      {% if post.categories contains "maps" %}
+        <li><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+
   <h3>Analysis</h3>
   <ul class="posts">
     {% for post in sortedPosts %}
