@@ -33,6 +33,29 @@ As usual, the goals are to document the game mechanics and extract graphics and
 map data. I also hope to discover the truth of whether the infinite hit points
 cheat involving apples and rabbit pies is real or fake.
 
+### Progress
+
+To date, the project has made notable discoveries, including:
+
+- Decoded the [map format](../data/map-format.html),
+  including triggers, switches, and monster spawn locations, and presented
+  annotated maps.
+- Ripped the game's graphics, both
+  [graphics files](../data/graphics.html) and
+  [internal graphics](../data/internal-graphics.html).
+- Debunked the [cheat](../analysis/cheats.html) involving throwing apples at a
+  shield.
+- Made a rudimentary analysis of the
+  [experience and level system](../analysis/experience.html).
+
+Still to determine:
+
+- How damage is calculated
+- How statistics affect combat mechanics
+- How statistics increase with level
+- Build a table of items and their statistics
+- The exact mechanics of each spell
+
 ### Thanks
 
 - howprice for [Aira Force](https://howprice.itch.io/aira-force) disassembler
