@@ -97,7 +97,7 @@ exceeds the capacity of an 800KB Amiga disk, which can be explained by the use
 of PowerPacker to compress data, which is seen on pirate releases that restore
 the standard DOS disk index.
 
-This suggests that the use of PowerPacker was original to the commerical
+This suggests that the use of PowerPacker was original to the commercial
 release, and not something added later by pirates to fit their own cracktro and
 documentation on disk. Accounting for PowerPacker, the file size total for disk
 1 is 663,564 bytes, and for disk 2 is 827,524 bytes, accounting for the file
